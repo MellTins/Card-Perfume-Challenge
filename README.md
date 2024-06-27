@@ -60,8 +60,8 @@ I had a little difficulty using the <picture> tag, it is a box level, and it is 
 
 ### Useful resources
 
-- [Example resource 1](https://web.dev/learn/design/responsive-images?hl=pt-br) - This site helped me better understand responsive images and how to make sure they don't leak through the card.
-- [Example resource 2](https://courses.kevinpowell.co/conquering-responsive-layouts) - This just 21 day course taught me a lot of useful things and I definitely recommend it to anyone who is starting to develop responsiveness in their projects.
+- (https://web.dev/learn/design/responsive-images?hl=pt-br) - This site helped me better understand responsive images and how to make sure they don't leak through the card.
+- (https://courses.kevinpowell.co/conquering-responsive-layouts) - This just 21 day course taught me a lot of useful things and I definitely recommend it to anyone who is starting to develop responsiveness in their projects.
 
 
 ## Author
