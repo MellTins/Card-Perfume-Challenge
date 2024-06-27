@@ -25,8 +25,12 @@
 }
 body {
   font-family: var(--montserrat);
-  margin: 2rem;
   background-color: var(--Cream);
+  min-height: 100vh;
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+
 }
 h1 {
   font-family: var(--frauces);
@@ -47,16 +51,19 @@ p {
   max-width: 100%;
   border-radius: 1rem 1rem 0 0;
 }
+
 .container {
   max-width: 1440px;
   width: 100%;
-  border-radius: 1rem;
+  border-radius: 1rem;  
 }
 .text-card {
   padding: 2rem;
   background-color: var(--White);
   color: var(--Dark-grayish-blue);
-  border-radius: 0 0 1rem 1rem;
+  border-radius: 0 1rem 1rem 0;
+  width: 55vh;
+  line-height: 2.5rem;
 }
 .prices {
   margin: 1rem 0;
@@ -89,4 +96,5 @@ p {
   #img-card {
     border-radius: 1rem 0 0 1rem;
   }
+  
 }
